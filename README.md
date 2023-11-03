@@ -1,1 +1,1 @@
-# gig-intern
+# gig-intern-frontend
